@@ -1,0 +1,4 @@
+﻿https://hassantariqblog.wordpress.com/2017/03/20/asp-net-core-sending-email-with-gmail-account-using-asp-net-core-services/
+
+
+https://www.google.com/settings/security/lesssecureapps
